@@ -1,0 +1,6 @@
+{
+  "name": "Lama Kords Stays & Business Advert",
+  "description": "Cross-platform accommodation advertising, booking, and ride-hailing platform for Zambia with Mobile Money (MTN, Airtel, Zamtel) and multi-platform Flutter architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
